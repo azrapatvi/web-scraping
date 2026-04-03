@@ -178,5 +178,3 @@ pip install requests beautifulsoup4 pandas lxml
 - Always check a site's `robots.txt` before scraping
 - Be respectful: add delays between requests for large-scale scraping
 
-## Upcoming Projects
-*(Add your future scraping projects here)*
