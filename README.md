@@ -1,4 +1,4 @@
-# Web Scraping Learning Journey 🕷️
+# Web Scraping Learning
 
 A collection of web scraping projects built while learning Python scraping techniques using `requests`, `BeautifulSoup`, and `pandas`.
 
